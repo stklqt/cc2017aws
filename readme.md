@@ -7,3 +7,4 @@ To run, you need an AWS Account. Links to the Tutorials are in the comments of t
 
 Ideas for some additional Stuff:
 - https://cloudacademy.com/blog/aws-machine-learning/   
+- http://docs.aws.amazon.com/machine-learning/latest/dg/tutorial.html
