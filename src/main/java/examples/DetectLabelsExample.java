@@ -20,8 +20,8 @@ public class DetectLabelsExample {
 
     public static void main(String[] args) throws Exception {
 
-//        String photo = "rocks-trees-bushes-sea-yachts-font-b-houses-b-font-trees-font-b-boats-b-font.jpg";|
-        String photo = "Data_with_blue_eyes.jpg";
+        String photo = "rocks-trees-bushes-sea-yachts-font-b-houses-b-font-trees-font-b-boats-b-font.jpg";
+//        String photo = "Data_with_blue_eyes.jpg";
         String bucket = "stklbucket";
 
         AWSCredentials credentials;
